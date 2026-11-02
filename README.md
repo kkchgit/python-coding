@@ -1,4 +1,4 @@
-# FAANG Top 50 — Python
+# Top 50 — Python
 
 50 classic coding-interview problems frequently reported in FAANG-style interviews, grouped by the pattern that cracks them. Each problem is a single self-contained Python file with:
 
