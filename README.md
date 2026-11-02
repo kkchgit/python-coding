@@ -101,7 +101,7 @@ Requires Python 3.9+.
 ## Repo layout
 
 ```
-faang-top-50/
+python-coding/
 ├── common/structures.py   # ListNode, TreeNode and build/print helpers
 ├── problems/
 │   ├── 01_arrays_hashing/
